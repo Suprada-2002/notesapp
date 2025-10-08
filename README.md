@@ -30,3 +30,12 @@ curl -LO raw.githubusercontent.com/prateekrajput08/Arcade-Google-Cloud-Labs/refs
 sudo chmod +x TechCode.sh 
 ./TechCode.sh
 ```
+
+```
+App Engine: Qwik Start - Go
+
+export REGION=
+curl -LO raw.githubusercontent.com/prateekrajput08/Arcade-Google-Cloud-Labs/refs/heads/main/App%20Engine%3A%20Qwik%20Start%20-%20Go/TechCode.sh
+sudo chmod +x TechCode.sh 
+./TechCode.sh
+```
