@@ -48,3 +48,11 @@ curl -LO raw.githubusercontent.com/prateekrajput08/Arcade-Google-Cloud-Labs/refs
 sudo chmod +x TechCode.sh 
 ./TechCode.sh
 ```
+
+```
+Cloud Storage: Qwik Start - CLI/SDK
+
+curl -LO raw.githubusercontent.com/prateekrajput08/Arcade-Google-Cloud-Labs/refs/heads/main/Cloud%20Storage%3A%20Qwik%20Start%20-%20CLI%20SDK/TechCode.sh
+sudo chmod +x TechCode.sh
+./TechCode.sh
+```
