@@ -2,3 +2,4 @@
 - textterc
 - textrty
 - texter
+- text
