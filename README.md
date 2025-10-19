@@ -1,5 +1,3 @@
 - textwtt
 - textterc
 - textrty
-- texter
-- text
