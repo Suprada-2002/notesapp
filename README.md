@@ -1,6 +1,3 @@
 - text
 - tetxjk
 - text
-- text
-- text
-- text
