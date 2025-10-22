@@ -1,4 +1,3 @@
 - text
 - text
-- text
 
