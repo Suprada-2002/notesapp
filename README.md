@@ -4,5 +4,3 @@
 - text
 - tetx
 - text
-- text
-- text
