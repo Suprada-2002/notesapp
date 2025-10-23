@@ -2,5 +2,3 @@
 - text
 - text
 - text
-- tetx
-- text
