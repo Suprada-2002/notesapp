@@ -1,5 +1,2 @@
 - text
 - text
-- text
-- text
-
