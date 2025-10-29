@@ -1,4 +1,3 @@
-- gtextex
 - twctwect
 - xwexrerx
 
