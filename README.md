@@ -1,4 +1,2 @@
 - textext
 - textrty
-- ipoiopkpok
-- oplkml
