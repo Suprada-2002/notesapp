@@ -1,5 +1,3 @@
 - text
 - text
 - textext
-- text
-- text
