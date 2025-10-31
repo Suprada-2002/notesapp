@@ -4,5 +4,3 @@
 - text
 - txt
 - etxttx
-- text
-- text
