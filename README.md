@@ -4,3 +4,4 @@
 - text
 - txt
 - etxttx
+- text
